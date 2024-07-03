@@ -1,0 +1,7 @@
+.products::-webkit-scrollbar{
+    display: none;
+}
+
+body, .main{
+    scroll-behavior: smooth;
+}
